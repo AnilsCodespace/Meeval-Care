@@ -1,5 +1,5 @@
 # Meeval-Care
-![Screenshot_2024-02-19-18-45-11-309_com meeval meeval](https://github.com/AnilsCodespace/Meeval-Care/assets/87460435/d65b6c8b-3ac7-4cb6-b03a-0cffcc2b4eb8)
+<img src='https://github.com/AnilsCodespace/Meeval-Care/assets/87460435/d65b6c8b-3ac7-4cb6-b03a-0cffcc2b4eb8.png' width= '200' height= '400'>
 ![Screenshot_2024-02-19-18-55-40-674_com meeval meeval](https://github.com/AnilsCodespace/Meeval-Care/assets/87460435/f81308d3-ccfb-47b3-8a9d-1f2ae69d6a51)
 ![Screenshot_2024-02-19-18-55-27-642_com meeval meeval](https://github.com/AnilsCodespace/Meeval-Care/assets/87460435/920ef643-6c5f-40ab-a210-57c2fd796b5a)
 ![Screenshot_2024-02-19-18-55-21-212_com meeval meeval](https://github.com/AnilsCodespace/Meeval-Care/assets/87460435/9858bd72-d8d7-4592-815d-d130edd66265)
